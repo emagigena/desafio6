@@ -1,0 +1,27 @@
+<div class="container p-3">
+  <h2 class="my-3">Este es el chat:</h2>
+  <form id="chatForm" class="p-2">
+    <div class="mb-3">
+      <label for="chatEmail" class="form-label">
+        Email del Usuario
+      </label>
+      <input required type="email" class="form-control w-50" id="chatEmail" name="chatEmail"/>
+    </div>
+
+    <div class="mb-3 p-3 overflow-auto border rounded bg-light" style="height: 20rem;">
+      <ul id="chatList" class="list-unstyled"></ul>
+    </div>
+
+    <div class="mb-3 d-flex gap-3">
+      <div class="w-100">
+        <label for="chatMensaje" class="form-label">
+          Mensaje
+        </label>
+        <input required type="text" class="form-control" id="chatMensaje" name="chatMensaje"/>
+      </div>
+      <button type="submit" class="btn btn-primary">
+        Enviar
+      </button>
+    </div>
+  </form>
+</div>

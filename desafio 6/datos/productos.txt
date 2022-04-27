@@ -1,0 +1,14 @@
+[
+  {
+    "title": "CD Pelea al Horror",
+    "price": "1500",
+    "thumbnail": "https://cdn-d15c.kxcdn.com/fotos/discos/000/012/731/original/foto.jpeg",
+    "id": 1
+  },
+  {
+    "title": "Remera Vintage",
+    "price": "1800",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/848/918/products/remera-logo-clasico1-db8382d93f7b0c21cb15965744776415-1024-1024.jpg",
+    "id": 2
+  }
+]
